@@ -1,0 +1,52 @@
+[
+    {
+        "animal": "Totoaba",
+        "lat": 26.970739898815513,
+        "long": -110.68795275496632
+    },
+    {
+        "animal": "Tortuga carey",
+        "lat": 19.17454794691813,
+        "long": -96.13734984604399
+    },
+    {
+        "animal": "Tortuga carey",
+        "lat": 19.850177,
+        "long": -90.539670
+    },
+    {
+        "animal": "Tortuga carey",
+        "lat": 21.385203981484796,
+        "long": -89.58185284601805
+    },
+    {
+        "animal": "Tortuga carey",
+        "lat": 19.134871538533837,
+        "long": -87.10634744055037
+    },
+    {
+        "animal": "Vaquita marina",
+        "lat": 30.419369241423123,
+        "long": -113.78667546081714
+    },
+    {
+        "animal": "Ballena azul",
+        "lat": 26.027286530418145,
+        "long": -111.02406804877116
+    },
+    {
+        "animal": "León marino de Steller",
+        "lat": 32.791773966359514,
+        "long": -120.36597067234635
+    },
+    {
+        "animal": "Tiburón martillo gigante",
+        "lat": 25.917443187461263,
+        "long": -89.69909885459177
+    },
+    {
+        "animal": "Tortuga verde",
+        "lat": 21.50711838524134,
+        "long": -97.17021242261201
+    }
+]
