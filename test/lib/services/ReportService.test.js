@@ -12,7 +12,7 @@ describe( "Unit test for class ReportService", () => {
 
     } )
 
-    test( "1) Test for method animalName", () => {
+    test( "2) Test for method animalName", () => {
 
         const result = ReportService.animalName( reports );
 
