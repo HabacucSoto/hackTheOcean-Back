@@ -20,4 +20,12 @@ describe( "Unit test for class ReportService", () => {
 
     } )
 
+    test( "3) Test for method coordinates", () => {
+
+        const result = ReportService.coordinates( reports );
+
+        expect( result ).not.toBeUndefined();
+
+    } )
+
 } )
