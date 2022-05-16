@@ -10,7 +10,7 @@ describe( "Unit test for class ReportService", () => {
         
         expect( result ).not.toBeUndefined();
 
-    } )
+    } );
 
     test( "2) Test for method animalName", () => {
 
@@ -18,7 +18,7 @@ describe( "Unit test for class ReportService", () => {
 
         expect( result ).not.toBeUndefined();
 
-    } )
+    } );
 
     test( "3) Test for method coordinates", () => {
 
@@ -26,6 +26,6 @@ describe( "Unit test for class ReportService", () => {
 
         expect( result ).not.toBeUndefined();
 
-    } )
+    } );
 
-} )
+} );
