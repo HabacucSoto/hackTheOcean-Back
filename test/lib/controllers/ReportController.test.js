@@ -18,4 +18,12 @@ describe( "Unit test for class ReportController", () => {
 
     } )
 
+    test( "3) Test for method getCoordinates", () => {
+
+        const result = ReportController.getCoordinates()
+
+        expect( result ).not.toBeUndefined();
+
+    } )
+
 } )
