@@ -10,4 +10,12 @@ describe( "Unit test for class ReportController", () => {
 
     } )
 
+    test( "2) Test for method getAnimalNames", () => {
+
+        const result = ReportController.getAnimalNames()
+
+        expect( result ).not.toBeUndefined();
+
+    } )
+
 } )
