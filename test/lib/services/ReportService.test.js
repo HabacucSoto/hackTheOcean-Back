@@ -28,4 +28,12 @@ describe( "Unit test for class ReportService", () => {
 
     } );
 
+    test( "4) Test for method animalWithCoordinates", () => {
+
+        const result = ReportService.animalWithCoordinates( reports );
+
+        expect( result ).not.toBeUndefined();
+
+    } );
+
 } );
