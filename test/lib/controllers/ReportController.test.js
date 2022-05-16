@@ -26,4 +26,12 @@ describe( "Unit test for class ReportController", () => {
 
     } );
 
+    test( "4) Test for method getAnimalAndCoordinates", () => {
+
+        const result = ReportController.getAnimalAndCoordinates();
+
+        expect( result ).not.toBeUndefined();
+
+    } );
+
 } );
